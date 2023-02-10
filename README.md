@@ -1,12 +1,13 @@
 ### Hi there 👋
-
+### I'm new so be gentle :cyclone:
+### 🌱 I’m currently learning the ins and outs of git hub.  I'm a rusty coder from way back who went into the IT realm instead of the dev realm.
 <!--
 **git-bitty/git-bitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on learning 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
